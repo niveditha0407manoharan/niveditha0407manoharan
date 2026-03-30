@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>Building my skills in Python, C, Java and MySQL<br>👯 I'm looking to collaborate on<br>Frontend projects, event-tech tools, or anything creative and impactful<br>🤝 I'm looking for help with<br>Backend integration and full-stack development<br>🌱 I'm currently learning<br>RISC-V Assembly (using Ripes simulator), OS concepts, and DBMS<br>💬 Ask me about<br>Event management, content creation, or anything frontend<br>⚡ Fun fact<br>> I write code, organize hackathons, and binge entire series — half engineer, half storyteller, still figuring out which one wins 😄<br><br>🗂️ Past Projects<br>🚗 Parking Management System — Python & MySQL based database management app<br>🎬 Whats-Next — Movie discovery web app using TMDB API, deployed on Vercel
+
+🔭 I'm currently working on<br>Building my skills in Python, C, Java and MySQL<br>
+👯 I'm looking to collaborate on<br>Frontend projects, event-tech tools, or anything creative and impactful<br><br>🤝 I'm looking for help with<br>Backend integration and full-stack development<br><br>🌱 I'm currently learning<br>RISC-V Assembly (using Ripes simulator), OS concepts, and DBMS<br><br>💬 Ask me about<br>Event management<br>content creation<br>anything frontend<br><br>⚡ Fun fact<br>> I write code, organize hackathons, and binge entire series — half engineer, half storyteller, still figuring out which one wins 😄<br><br>🗂️ Past Projects<br>🚗 Parking Management System — Python & MySQL based database management app<br>🎬 Whats-Next — Movie discovery web app using TMDB API, deployed on Vercel
 
 
 ## 🌐 Socials:
